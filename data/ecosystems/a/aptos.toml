@@ -13,7 +13,6 @@ sub_ecosystems = [
   "Aptos Passport",
   "Aptos Rabbit",
   "Aptosis",
-  "Aptovate",
   "AptStats",
   "Aries Markets",
   "AUX Exchange",
@@ -89,8 +88,7 @@ url = "https://github.com/09odem/aptogotchi"
 url = "https://github.com/0LNetworkCommunity/aptos-core"
 missing = true
 
-[[repo]]
-url = "https://github.com/Tpavimalini/Aptovate"
+
 
 [[repo]]
 url = "https://github.com/0LNetworkCommunity/zapatos"
